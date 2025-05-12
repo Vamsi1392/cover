@@ -31,10 +31,11 @@ Insert the images in their appropriate places.
 Publish the website in the LocalHost.
 
 ## PROGRAM:
+```
 
-
+```
 ## OUTPUT:
-
+![alt text](<Screenshot 2025-05-12 214024.png>)
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
